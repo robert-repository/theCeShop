@@ -1,4 +1,3 @@
-Class Diagram
 # theCeShop
 install mySql
 create database called "theceshopdb"
